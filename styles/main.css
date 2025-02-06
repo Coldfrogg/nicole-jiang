@@ -17,6 +17,13 @@
     max-width: 800px;
   }
 
+  #typed-text {
+    display: inline-block;
+    border-right: 2px solid black;
+    font-size: 20px;
+    color: #383636
+  }
+
   .nav-container {
     display: flex;
     align-items: center;
